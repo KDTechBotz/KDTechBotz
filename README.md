@@ -1,7 +1,3 @@
-            <img width="250" src="https://telegra.ph/file/97b912ea5dc433afff1bc.jpg" alt="LUCIFER">
-            <img width="250" src="https://telegra.ph/file/97b912ea5dc433afff1bc.jpg" alt="LUCIFER">
-
-
 - 👋 Hi, I’m @KDTechBotz
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
