@@ -1,7 +1,7 @@
 <p align="center">
     <a href="https://github.com/KDBotz/LUCIFER">
         <kbd>
-            <img width="250" src="https://telegra.ph/file/97b912ea5dc433afff1bc.jpg" alt="LUCIFER">
+            <img width="250" src="[https://telegra.ph/file/97b912ea5dc433afff1bc.jpg](https://graph.org/file/e525a5a6edf28f9eadef7.jpg)" alt="LUCIFER">
         </kbd>
     </a>
 </p>
